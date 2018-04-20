@@ -3,7 +3,6 @@ var gulp = require('gulp');
 var sass = require('gulp-sass');
 var concat = require('gulp-concat');
 var sourcemaps = require('gulp-sourcemaps');
-// var minify = require('gulp-minify');
 var csso = require('gulp-csso');
 var autoprefixer = require('gulp-autoprefixer');
 const cleanCSS = require('gulp-clean-css');
@@ -13,7 +12,6 @@ var paths = {
   styles: {
     input: 'src/styles/**/*.scss',
     output: 'dist/styles/'
-    // output: 'dist/styles/main.min.css'
   }
 };
 
