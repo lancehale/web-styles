@@ -19,8 +19,22 @@ This is the main page for our colors.
   </text>
 </svg>
 
+<symbol id="icon-stop2" viewBox="0 0 32 32">
+<title>stop2</title>
+<path d="M4 4h24v24h-24z"></path>
+</symbol>
+Note:
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
 
-<svg class="icon blue icon-stop2"><use xlink:href="#icon-stop2"></use></svg>
-<svg class="icon green icon-stop2"><use xlink:href="#icon-stop2"></use></svg>
+<svg class="icon blue icon-stop2"><path d="M4 4h24v24h-24z"></path></svg>
+<svg class="icon green icon-stop2"><title>stop2</title>
+<path d="M4 4h24v24h-24z"></path></svg>
 <svg class="icon red icon-stop2"><use xlink:href="#icon-stop2"></use></svg>
 <svg class="icon orange icon-stop2"><use xlink:href="#icon-stop2"></use></svg>
