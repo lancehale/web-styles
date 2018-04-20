@@ -93,6 +93,20 @@
 }
 
 
+/** 
+     Sidebar
+**/
+nav.side-nav {
+    display: flex;
+    flex-direction: column;
+    a:hover, a:active {
+        color: red;
+    }
+}
+nav.side-nav a:hover {
+    font-weight: 500;
+}
+
 
 /**
  * Site footer
