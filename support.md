@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Support
-permalink: /support/
+title: Fonts
+permalink: /fonts/
 ---
 
 This is the base landing page for Support site..
