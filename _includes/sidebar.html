@@ -14,14 +14,12 @@
         <!--{% endfor %}-->
 
         {% assign items = site.pages | sort: 'date' %}
-        {% for item in items %}
-        <li>
-            <a href="{{ item.url }}">
-                <img src="{{ item.thumb }} " alt="">
-                </figure>
-                <p>{{ item.title }}</p>
-            </a>
-        </li>
+        {% for my_page in items %}
+
+        <div class="link-wrapper">
+            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        </div>
+
         {% endfor %}
 
 
