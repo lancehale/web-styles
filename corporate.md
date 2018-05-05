@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Corporate
-permalink: /corporate/
+title: Buttons
+permalink: /buttons/
 ---
 
-This is the base landing page for corporate..
+This is the base landing page for buttons. On this page will be listed sections for General, Corporate, Universty, and Support (as needed).
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
