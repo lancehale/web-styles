@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Universal
-permalink: /universal/
+title: Forms
+permalink: /forms/
 ---
 
 This is the base landing page for universal..
