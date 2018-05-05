@@ -14,7 +14,7 @@
         <!--{% endfor %}-->
 
         {% assign items = site.pages | sort: 'date' %}
-        {% for item in items limit:3 %}
+        {% for item in items %}
         <li>
             <a href="{{ item.url }}">
                 <img src="{{ item.thumb }} " alt="">
