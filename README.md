@@ -11,6 +11,11 @@ This project was inspired by Google's Web Starter Kit and achieves most of the s
 
 ### Features
 
+Lance was here
+
+
+
+
 | Feature                                | Summary                                                                                                                                                                                                                                                     |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Line Critical CSS                       | Inlining critical “above-the-fold” CSS ensures users can begin interacting with the page faster. I used this [Critical](https://github.com/addyosmani/critical) by Addy Osmani 
